@@ -1,0 +1,6 @@
+{
+  "name": "Singapore CrewVoyage - Group Travel Hub & Local Insider",
+  "description": "Collaborative Singapore group travel workspace: shared hawker trails, activity voting, FairShare expense splitting, live Lau Pa Sat rendezvous meetups, and local insider gems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
